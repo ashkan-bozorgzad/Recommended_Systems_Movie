@@ -5,7 +5,7 @@ This repository explores Movie Recommendation Systems using the MovieLens datase
 
 The repository includes three Jupyter Notebooks:
 
-**1. Movie_Recom_Sys_ML.ipynb:** This notebook covers:
+**[1. Movie_Recom_Sys_ML.ipynb:] (https://github.com/ashkan-bozorgzad/Recommended_Systems_Movie/blob/test/Movie_Recom_Sys_ML.ipynb)** This notebook covers:
 + Exploratory Data Analysis of the MovieLens dataset.
 + Method 1: Recommending Similar Movies using Correlation.
 + Method 2: Recommending Similar Movies using Cosine Similarity with K-Nearest Neighbors (KNN).
